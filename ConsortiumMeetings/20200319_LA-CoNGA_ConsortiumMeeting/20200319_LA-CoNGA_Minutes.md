@@ -13,3 +13,4 @@ TUD : necesitan un borrador más preciso del PA.
 
 París : Prioridad 0 : presionar al service juridique para un borrador del PA. Proponer una solución al problema del retraso con la vido-press-release.
  
+Todos : dar el número de móvil a Luis para tener el grupo whatsapp actualizado

@@ -1,0 +1,2 @@
+Attending : 
+Harold, Cristian, Carlos

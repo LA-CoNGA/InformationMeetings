@@ -1,4 +1,4 @@
-* Date & Time: 20200131 12:30 - 13:30  (UTC -04)
+* Date & Time: 20200116 12:30 - 13:30  (UTC -04)
 * Participants: 
     * Jorge Stephany (Coordinador de Física USB - LA-CoNGA)
     * Aura Cova (USB Decana del Postgrado)

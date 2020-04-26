@@ -17,3 +17,5 @@ Action items :
 * WP5: JAL called for a diversity meeting. Please fill the doodle asap: https://doodle.com/poll/fst4uttpxu99h6ia
 * Establecer calendario para semaneros. JAL and Jorge will create and send the calendar next week.
 * Webinars, a first proposal can be found in the slides. A separate meeting will be called by the coordination team to discuss details
+
+Next consortium meeting: 08/05/2020

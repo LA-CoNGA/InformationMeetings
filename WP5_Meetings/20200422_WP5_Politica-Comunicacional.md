@@ -24,9 +24,9 @@
 
 * Se comentó la urgencia de promocionar el proyecto y específicamente la apertura de la maestría conjunta con suficiente antelación al inicio de actividades docentes en enero 2021. 
 
-* Se acordó organizar el Plan de Comunicaciones en dos ciclos: Uno rápido que atienda la necesidad mencionada arriba y la promosión de los webinars propuestos en la reunión anterior. Y un segundo ciclo donde se consolide una visión mas completa y detallada del proyecto  y se tengan en cuenta todas las expectativas del órgano financiador y las instituciones participantes.
+* Se acordó organizar el Plan de Comunicaciones en dos ciclos: Uno rápido que atienda la necesidad mencionada arriba y la promoción de los webinars propuestos en la reunión anterior. Y un segundo ciclo donde se consolide una visión mas completa y detallada del proyecto  y se tengan en cuenta todas las expectativas del órgano financiador y las instituciones participantes.
 
-* Se decidió llevar este punto la agenda de la reunión del consorcio del 24 de abril para información y discusión final. En particlar se compilaran las necesidades y expectativas de las instituciones  participantes para la producciín de los textos y videos que cubran el primer ciclo de difusión
+* Se decidió llevar este punto la agenda de la reunión del consorcio del 24 de abril para información y discusión final. En particular se compilaran las necesidades y expectativas de las instituciones  participantes para la producción de los textos y videos que cubran el primer ciclo de difusión
 
 * AG y LN se pondrán en contacto con los candidatos sugeridos por LN para colaborar en forma profesional con la producción y difusión de videos, textos etc.
 

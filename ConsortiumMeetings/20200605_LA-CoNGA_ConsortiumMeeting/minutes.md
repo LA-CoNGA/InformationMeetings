@@ -2,13 +2,11 @@ Minutas reunión de consorcio, 5 de junio. 16h30 a 18h50 CET.
 
 Noticias de la coordinación :
 
-* Avances en la preparación de las plantillas de PA
-  ** se espera tener una primera versión hacia el 15 de junio
-  ** para toda comunicación hacia los institutos, se mantendrá en copia a nuestros interlocutores locales
-  
-* Una mención a LA-CoNGA va a aparecer en la web de UdP
-
-* Action item : contribuciones al reporte cuadrimestral antes del viernes 12
+1. Avances en la preparación de las plantillas de PA
+ - se espera tener una primera versión hacia el 15 de junio
+ - para toda comunicación hacia los institutos, se mantendrá en copia a nuestros interlocutores locales
+2. Una mención a LA-CoNGA va a aparecer en la web de UdP
+3. Action item : contribuciones al reporte cuadrimestral antes del viernes 12
 
 * Preguntas/comentarios
  ** Dennis: está preparando un borrador para TICAL2020 

@@ -2,16 +2,19 @@ Minutas reunión de consorcio, 5 de junio. 16h30 a 18h50 CET.
 
 Noticias de la coordinación :
 
-* 1) Avances en la preparación de las plantillas de PA
-  ** 1.1) Se espera tener una primera versión hacia el 15 de junio.
-  ** 1.2) Para toda comunicación hacia los institutos, se mantendrá en copia a nuestros interlocutores locales.
-* 2) Una mención a LA-CoNGA va a aparecer en la web de UdP
-* 3) Action item : contribuciones al reporte cuadrimestral antes del viernes 12
-* 4) Preguntas/comentarios
-## 4.1) Dennis está preparando un borrador para TICAL2020
-## 4.2) Javier va a proponer una o varias presentaciones sobre LA-CoNGA en unas jornadas nacionales
-## 4.3) Dennis : ¿definir una lista de autores LA-CoNGA? La coordinación propondrá una reflexión sobre ese tema pronto
-## 4.4) Harold : ¿fees de conferencia elegibles para el proyecto? Se evaluarán caso por caso
+* Avances en la preparación de las plantillas de PA
+  ** se espera tener una primera versión hacia el 15 de junio
+  ** para toda comunicación hacia los institutos, se mantendrá en copia a nuestros interlocutores locales
+  
+* Una mención a LA-CoNGA va a aparecer en la web de UdP
+
+* Action item : contribuciones al reporte cuadrimestral antes del viernes 12
+
+* Preguntas/comentarios
+ ** Dennis: está preparando un borrador para TICAL2020 
+  ** Javier: va a proponer una o varias presentaciones sobre LA-CoNGA en unas jornadas nacionales
+   ** Dennis: ¿definir una lista de autores LA-CoNGA? La coordinación propondrá una reflexión sobre ese tema pronto
+   ** Harold : ¿fees de conferencia elegibles para el proyecto? Se evaluarán caso por caso
 
 Reporte WP1
 

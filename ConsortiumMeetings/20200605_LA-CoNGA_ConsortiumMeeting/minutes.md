@@ -21,7 +21,7 @@ Reporte WP1 :
  - definición del perfil del egresado tipo
  - otras....
 2. Action items :
- - reuniones WP1/syllabus con frecuencia semanal
+ - reuniones WP1/syllabus con frecuencia semanal (propuesta: ¿usar el slot del viernes 14h30 UTC para la semana próxima?)
  - enviar ideas/sugerencias/comentarios antes de las reuniones (p.e. en la mailing list) para acelerar el proceso de reflexión
 
 Reporte WP5 :

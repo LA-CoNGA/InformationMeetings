@@ -19,19 +19,30 @@ Noticias de la coordinación :
 Reporte WP1
 
 1) Numerosas discusiones útiles e importantes:
+
 1.1) adecuación del calendario y los syllabuses con las exigencias locales
+
 1.2) definición del perfil del egresado tipo
+
 1.3) otras....
+
 2) Action items :
+
 2.1) reuniones WP1/syllabus con frecuencia semanal
+
 2.2) enviar ideas/sugerencias/comentarios antes de las reuniones (p.e. en la mailing list) para acelerar el proceso de reflexión
 
 Reporte WP5
 
 1) Prioridad absoluta del WP5 : preparación de los encuentros virtuales y plan de comunicación previo
+
 2) Bastante material recibido, pero ¡importante proveer el material solicitado faltante!
+
 3) Fecha sugerida para el primer encuentro virtual : viernes 26 de junio
+
 3.1) Javier : ¿Se puede pensar en días sábados? Frecuencia : ¿semanal? ¿cada 2 semanas?
+
 4) Convoca a una reunión para decidir sobre el calendario sugerido y demás acciones a emprender
+
 4.1) JAL : doodle enviado en la mailing list. ¡favor responder antes del lunes 9!
 

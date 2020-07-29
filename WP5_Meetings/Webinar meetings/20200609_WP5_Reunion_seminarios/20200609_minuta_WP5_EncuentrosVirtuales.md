@@ -7,6 +7,7 @@
 	* Dennis Cazar (DC)
 	* Ernesto Medina (EM)
     * Harold Yepes (HY)
+    * Javier Solano (CJS)
     * José Antonio López (JAL)
     * José Ocariz (JO)
     * Jorge Stephany (JS)
@@ -47,7 +48,7 @@
 ### Formato seminarios y Calendario definitivo
 #### Se ratifica el formato de seminario que se estableció en la reunión anterior (2020-04-30).
 
-* Speakers: Two speakers per session with ~20m-25m talk, 10m-15m Q&A.
+* Speakers: 3-4 speakers per session with ~20m-25m talk, 10m-15m Q&A.
 	* [Coordinación] Todo el consorcio presente.
 	* [LN] Speakers: balance Europa Latinoamérica.
 * Talk structure: thematic highlights ~15m-10m + our syllabus 10m-5m.

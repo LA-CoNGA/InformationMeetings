@@ -27,3 +27,8 @@ Se mencionó la importancia de introducir cada concepto enseñado a través de l
 1- Presentación de la trama oficial con los detalles de las materias obligatorias y cursos opcionales. 
 2- Se mencionó que el contenido de las materias podría constituir un obstáculo a cierto perfil de estudiantes interesados.
 
+* Primer aperitivo La-CoNGA
+
+¡El día sábado 3 realizamos la primera reunión aperitivo de la comunidad conguera!
+Muchas temas discutidos alrededor de una bebida.
+Esperamos contar con su presencia para la próxima cita :)

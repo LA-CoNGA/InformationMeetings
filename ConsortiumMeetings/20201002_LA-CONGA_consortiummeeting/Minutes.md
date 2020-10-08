@@ -1,4 +1,4 @@
-* Noticias de la coordinación 
+# Noticias de la coordinación 
 
 1- Status de los partnership agreements. Estamos a la espera de 3 firmas más y dos coordenadas bancarias.
 
@@ -19,16 +19,17 @@ carta oficial a los socios indicando este punto.
 
 Se mencionó la importancia de introducir cada concepto enseñado a través de las prácticas y por lo tanto de los equipos utilizados. Por lo cual,
 
-1- Se da prioridad absoluta a la lista de instrumentación necesaria para realizar las prácticas.
-2- Continuar el follow-up de los equipos
+  * Se da prioridad absoluta a la lista de instrumentación necesaria para realizar las prácticas.
+  * Continuar el follow-up de los equipos
 
 * Syllabus de teoría : avances y reporte
 
-1- Presentación de la trama oficial con los detalles de las materias obligatorias y cursos opcionales. 
-2- Se mencionó que el contenido de las materias podría constituir un obstáculo a cierto perfil de estudiantes interesados.
+  * Presentación de la trama oficial con los detalles de las materias obligatorias y cursos opcionales. 
+  * Se mencionó que el contenido de las materias podría constituir un obstáculo a cierto perfil de estudiantes interesados.
+  * José Antonio adaptará la propuesta actual: modificar los tiempos de cada tema siguiendo la discusión de hoy y agregando detalle fino al contenido de cada semana.
 
 * Primer aperitivo La-CoNGA
 
 ¡El día sábado 3 realizamos la primera reunión aperitivo de la comunidad conguera!
 Muchas temas discutidos alrededor de una bebida.
-Esperamos contar con su presencia para la próxima cita :)
+Esperamos contar con su presencia para la próxima cita que será el 7 de Noviembre :)

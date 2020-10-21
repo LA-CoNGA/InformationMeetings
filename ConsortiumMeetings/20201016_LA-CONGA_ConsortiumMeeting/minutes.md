@@ -30,6 +30,9 @@
   * Action item ([JAL], [Anamaría], [Pierre], otros): poner en limpio la información sobre el syllabus en .md en el git.
  
 * Action item ([coordinación]): preparar sondeos para nominaciones y auto-nominaciones de voluntarios docentes en los tres bloques: teoría, datos, instrumentación.
+  * Enlace al sondeo para Teoría: https://forms.gle/YqjjgZf1xBLnxd9r6
+  * Enlace al sondeo para Datos: https://forms.gle/c199iTPg5qRRBQyc8
+  * Enlace al sondeo para Instrumentación: https://forms.gle/wVYXw71659sKohiBA
 
 # Plataforma de e-learning ([Luis])
   * Una primera versión mínima operativa de la plataforma de e-learning será mostrada la semana próxima.

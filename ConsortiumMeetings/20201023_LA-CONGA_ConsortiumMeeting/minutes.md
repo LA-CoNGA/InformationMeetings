@@ -4,6 +4,7 @@
 # Noticias de la coordinación [José]
   * Link a las slides: https://docs.google.com/presentation/d/1tap6l97QNHPi0PMMo8WS-J3w8MvCVjbWt93yaMb8MQY/
   * PA y mandates:
+     * TUD listo
      * avances positivos para UCV y USB. Esperamos noticias en los próximos días
    * Calendario de reuniones bilaterales con oficinas de enlace
        * Actividad pendiente. Action item urgente ([Andrea] a partir del 27/10)

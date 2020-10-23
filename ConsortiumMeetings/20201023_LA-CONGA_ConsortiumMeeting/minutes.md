@@ -13,6 +13,8 @@
 
 # Preparación de los syllabi
   * Avances positivos, documentados en el git (links en las slides)
+    * [JAL]: el material del curso de física de partículas será actualizado en breve
+    * [Dennis]: idem para los cursos del bloque de instrumentación
   * Formularios de nominaciones y auto-denominaciones: plazo hasta el viernes 30 de octubre
     * Enlace al sondeo para Teoría: https://forms.gle/YqjjgZf1xBLnxd9r6
     * Enlace al sondeo para Datos: https://forms.gle/c199iTPg5qRRBQyc8
@@ -22,7 +24,7 @@
 # AOB
   * [Jorge]: Punto de información sobre LASF4RI, seguido de comentarios de Reina, Gabriela, Arturo y José. Propuesta: dedicar un slot para resumen y discusión sobre visibilidad de LA-CoNGA en LASF4RI (p.e. advanced training, outreach, citizen science)
   * [Dennis]: Se reunirá la semana próxima con el representante LA de National Instruments. Invitará a Luis a unirse
-  * {Arturo]: Formación git (c.f. discusión en el MatterMost)
+  * [Arturo]: Formación git (c.f. discusión en el MatterMost)
   * [Arturo]: Carlos está de beta-tester de la plataforma. Propuesta: un reporte cuando haya avances significativos en esas pruebas
 
 # Recordar:

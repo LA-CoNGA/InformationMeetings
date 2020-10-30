@@ -33,7 +33,7 @@
   * Favor poner enlaces en el indico
 
 # Recordar:
-  * Asignar un voluntario para tomar apuntes y reportar minutas de todas las reuniones
+  * Asignar una persona voluntaria, al inicio de toda reunión, para tomar apuntes y reportar minutas en el git.
   * Guardemos registro de nuestras actividades en el calendario, git, Mattermost
   * Circular material a presentar en eventos para recibir feedback del consorcio
   * Próximo aperitivo LA-CoNGA: 7 de Noviembre

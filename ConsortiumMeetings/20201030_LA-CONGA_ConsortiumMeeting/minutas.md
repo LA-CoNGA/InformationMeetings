@@ -26,10 +26,11 @@
     * Enlace al sondeo para Teoría: https://forms.gle/YqjjgZf1xBLnxd9r6
     * Enlace al sondeo para Datos: https://forms.gle/c199iTPg5qRRBQyc8
     * Enlace al sondeo para Instrumentación: https://forms.gle/wVYXw71659sKohiBA 
-  * Acuerdo global con los nombres ya sugeridos
+  * [Reina] Slides resumiendo las nominaciones recibidas hasta ayer: https://docs.google.com/presentation/d/1gPx1HBuBXf3ubL4puIAWq4NyfHwNWPzyKdUMvyEmQ-I/edit
+    * Acuerdo global con los nombres ya sugeridos
 
 # Plataforma y metodología docente [Arturos][Luis]
-
+  * Favor poner enlaces en el indico
 
 # Recordar:
   * Asignar un voluntario para tomar apuntes y reportar minutas de todas las reuniones

@@ -1,6 +1,6 @@
 Reunión con Galo Nina, representante EEAS Ecuador: Andrea, José, Galo.
 
-Después de una presentación general del proyecto, la conversación se centró en el tema de Yachay.
+Después de una presentación general del proyecto, la conversación se centró en el tema de Yachay. El está dispuesto a participar en la reunión con el rector de Yachay, y propone invitar al director del Senescyt.
 
 Slides: https://docs.google.com/presentation/d/1PxGeqNGtBBTALptNJTN7HJvyQIRZ5zbWLB95xfRIUN0/
 

@@ -21,7 +21,7 @@
 # Tutoriales para la plataforma e-learning [Arturos]
   * Link a las slides: https://docs.google.com/presentation/d/1OsoAIrhujjB0BRFm4uz92kpSWE8Bioudqii6ark7e28
   * 1er tutorial el 20 de noviembre: Git + User Interface
-  * Todo el mundo debe abrirse una cuenta en https://gitmilab.redclara.net/
+    * Todo el mundo debe abrirse una cuenta en https://gitmilab.redclara.net/
   * 2do tutorial más avanzado : Git, Jupyter
 
 # Adopción de principios FAIR en LA-CoNGA  [Reina]
@@ -31,6 +31,7 @@
 
 # Action items:
   * Hacer seguimiento a la organización de las reuniones bilaterales
+  * Abrir una cuenta en https://gitmilab.redclara.net/
   * Actualizar las time-sheets
   
 # Recordar:

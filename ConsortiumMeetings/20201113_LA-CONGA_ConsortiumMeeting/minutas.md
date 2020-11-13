@@ -30,9 +30,9 @@
   * [Arturos] preparación de plantillas de Metadatos 
 
 # Action items:
-  * Hacer seguimiento a la organización de las reuniones bilaterales
-  * Abrir una cuenta en https://gitmilab.redclara.net/
-  * Actualizar las time-sheets
+  * Hacer seguimiento a la organización de las reuniones bilaterales y la organización del kick-off meeting
+  * Abrir una cuenta en https://gitmilab.redclara.net/ antes de la reunión del próximo viernes
+  * Actualizar las time-sheets (muy importante en vista de las transferencias de Staff Costs)
   
 # Recordar:
   * Asignar una persona voluntaria, al inicio de toda reunión, para tomar apuntes y reportar minutas en el git.

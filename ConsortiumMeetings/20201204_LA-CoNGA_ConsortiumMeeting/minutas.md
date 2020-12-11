@@ -5,7 +5,7 @@
 * Link a las slides: https://docs.google.com/presentation/d/1EU2JMqvHuOUfsrQ743wfpoqymV1POD025n5O3ZZHQl0/edit?usp=sharing
 * PA: UCV, JAL está poniendo presión en su universidad. Debemos contactar a Jorge offline
 * Contacto DELL Venezuela establecido por JAL y Jorge. Esperando cotización de DELL Venezuela. Por favor poner en copia a la coordinación
-* Todos: deadline para poner al día las timesheets para el 18/12
+* Todos: poner al día las timesheets para el 18/12
 * Reuniones bilaterales:
   * Hacen faltan las reuniones bilaterales con representantes con UNI/UCV/USB/UIS
   * UCV: ya la decana designó a la persona que la presentará

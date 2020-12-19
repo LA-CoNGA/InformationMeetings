@@ -39,6 +39,7 @@
     * 0+0 en Ecuador (dificultades conocidas, tanto en Yachay como en USFQ)
     * entre 3 y 6 en Perú (p.f. confirmar)
     * 1 UCV, ¿? USB en Venezuela (p.f. confirmar)
+* Reunión con los padrinos el viernes 08/01    
 * Spin-off: que otros colegas utilicen la plataforma para preparar sus propios cursos, así no estén directamente relacionados con LA-CoNGA
   * p.e. Jorge va a preparar un curso (con M. Caicedo) sobre el grupo de Lorentz
     * este ejemplo, además, es de interés para estudiantes de LA-CoNGA

@@ -1,4 +1,4 @@
-Slides eindico
+Slides e indico
 
 * https://docs.google.com/presentation/d/1pwwb4CfH3m021Soz169jFIK9_WdLcEm6o5l_6on1dcQ/edit#slide=id.gb9ede60a71_1_623
 

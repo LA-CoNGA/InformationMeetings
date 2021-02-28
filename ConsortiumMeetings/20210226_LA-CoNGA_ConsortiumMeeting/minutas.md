@@ -31,3 +31,43 @@
   Ernesto: necesita ayuda para las simulaciones en MC & DM
     
     estudiantes bastante autónomos, podemos conseguir ayuda dentro del consorcio (Luis, Jorge, JC) 
+  
+## Sobre la organización del 2do semestre
+
+El 2do semestre tiene 30 ECTS
+
+  15 son asignadas a la internship
+
+  debemos decidir cómo se estructuran  los 15 ECTS restantes
+
+El GANTT “oficial” habla de lo siguiente : 
+
+  una extensión del curso de teoría por filial
+
+  dos materias “electivas”
+
+  actividades transversas (hackathon, citizen science)
+
+¿podemos proponer un número razonable de electivas?
+
+  Survey pseudo-aleatorio de ideas escuchadas
+
+    ¿con quién podemos contar?
+    
+    respetar el perfil de LA-CoNGA physics que no es solamente formación para la academia
+    
+    un curso de AI+ML parece ideal para nuestro perfil
+      tal vez tenemos posibles candidaturas
+
+    ¿un curso de física médica?
+
+      ¡JAL es candidato!
+
+  ¿podemos pensar en un curso avanzado de instrumentación?
+
+  un mosaico, proponer un pool de nano-módulos
+
+    ¿totalmente disconexos? ¿o con alguna coherencia?
+
+  action item : Javier, Ernesto, Carlos responsables de esta reflexión 
+    esperamos retomarla el viernes próximo

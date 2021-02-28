@@ -76,6 +76,7 @@ El GANTT “oficial” habla de lo siguiente :
     ¿totalmente disconexos? ¿o con alguna coherencia?
 
   action item : Javier, Ernesto, Carlos responsables de esta reflexión 
+    
     esperamos retomarla el viernes próximo
     
 ## AOB

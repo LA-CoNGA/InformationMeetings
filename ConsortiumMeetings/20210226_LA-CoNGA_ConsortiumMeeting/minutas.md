@@ -31,7 +31,13 @@
   Ernesto: necesita ayuda para las simulaciones en MC & DM
     
     estudiantes bastante autónomos, podemos conseguir ayuda dentro del consorcio (Luis, Jorge, JC) 
-  
+
+## Sobre la elección de la filial
+
+Tema central de la reunión interna del 8 de marzo
+
+  oradores : Gabriela (AE) y Pierre (SC)
+
 ## Sobre la organización del 2do semestre
 
 El 2do semestre tiene 30 ECTS
@@ -71,3 +77,8 @@ El GANTT “oficial” habla de lo siguiente :
 
   action item : Javier, Ernesto, Carlos responsables de esta reflexión 
     esperamos retomarla el viernes próximo
+    
+## AOB
+
+JAL presentará el proyecto en un evento de USB Alumni
+ 

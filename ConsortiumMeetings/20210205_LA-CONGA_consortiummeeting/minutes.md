@@ -32,6 +32,6 @@ Asegurarse que los estudiantes puedan acceder a todo el contenido de los cursos 
 
 # Organizacion segundo semestre
 
-Los miembros del equipo organizador de las contribuciones no estuvo presente para este punto de la agenda. Se harà un reminder urgente y se retomara 
+Los miembros del equipo organizador de las contribuciones no estuvieron presentes para este punto de la agenda. Se harà un reminder urgente y se retomara 
 la discusion durante la proxima reunion.
 

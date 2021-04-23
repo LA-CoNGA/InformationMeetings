@@ -43,7 +43,7 @@ Feedback consorcio :
 
 # Data Management Plan
 
-Presentacion José Antonio: https://drive.google.com/drive/folders/1VggQjQ9olt7VzOIgvgdCl2fTqGoL3yEb
+Presentacion José Antonio: PDF adjunto en el file 
 
 Feedback :
 

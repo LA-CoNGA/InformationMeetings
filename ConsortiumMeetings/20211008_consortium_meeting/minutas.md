@@ -54,9 +54,16 @@ JAL : piezas del equipo de comunicación deben salir la próxima semana
 
 JAL : agregar preguntas en el formulario de inscripción (cómo se enteraron, de dónde vienen, universidad, etc...)
 
-## 4) AOB I: Dennis sobre la reunión con autoridades de USFQ. Habrá probablemente al menos 1 estudiante de USFQ en el 2022.
+## 4) AOB I: Dennis sobre la reunión con autoridades de USFQ
 
-## 5) AOB II: JAL a propósito de RACIMO. Se propuso hacer un evento único a destinación de los contactos en colegios (profesores, directivos). Fecha posible: viernes 05/11, se tomará 1 hota de la reunión de consorcio
+  * Habrá probablemente al menos 1 estudiante de USFQ en el 2022.
 
-## 6) AOB III: Arturos a propósito del Hackathon, pedirá un slot en una de las próximas reuniones.
+## 5) AOB II: JAL a propósito de RACIMO. 
+
+  * Se propuso hacer un evento único a destinación de los contactos en colegios (profesores, directivos). 
+  * Fecha posible: viernes 05/11, se tomará 1 hota de la reunión de consorcio
+
+## 6) AOB III: Arturos a propósito del Hackathon
+
+  * pedirá un slot en una de las próximas reuniones.
 

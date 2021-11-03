@@ -18,9 +18,9 @@ Ellos quieren seguir en el proyecto , aunque el programa empiece en enero.
 
 - A quiénes pertenecen los equipos de ciencia ciudadana? Propiedad de las Universidades o de los Colegios? – Duda sobre si el formato de uso de los equipos en Bucaramanga funcione en el resto de colegios de la region.
 
-- En ciertos casos no se podran registrar en las universidades (p.ej UCV) – consumibles – flexibilidad de moverlos de un lugar
+- En ciertos casos no se podran registrar en las universidades (p.ej UCV) – consumibles – flexibilidad de instalarlos fuera los campus.
 
-- Como prevenir que el colegio responda y que los proyectos no se caigan?
+- Como incitar a que los colegios respondan y evitar que los proyectos se caigan?
 
 - Podemos generar un documento administrativo de uso de material ? (propiedad de las universidades, con uso permanente en los colegios). **Verificar** 
 

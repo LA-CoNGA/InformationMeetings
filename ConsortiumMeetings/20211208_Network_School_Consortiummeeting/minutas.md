@@ -1,3 +1,5 @@
+# Comunicacion 
+
 **Presentacion Ysabel**
 
 - Lo que se hizo : definir lineas discursivas - publico objetivo
@@ -32,11 +34,15 @@
   - externa 
   - entidades de policy maker (unesco , darnos a conocer...)
 
-**Balance financiero :**
+# Finanzas 
+
+**Balance:**
 
 Comentarios :
 
 - no comprar equipos hasta no tener todos instalados
+
+# Discusion industria 
 
 **Presentacion José - intervencion Raul :**
 
@@ -65,7 +71,8 @@ los participantes seràn estudiantes de latinoamerica. Talvez algunas start-ups 
 
 - José : una posible sugerencia para 2022 -  tener una rama de formacion directamente orientada a industria o research
 
-**EVALUACION REPORTE :**
+
+# Evaluacion Reporte :
 
 - Politicas nacionales / pertinencia con el proyecto : contacto con enlace erasmus+
 - Comunicacion : integrar la persona de traduccion en el equipo de comunicacion
@@ -85,19 +92,26 @@ los participantes seràn estudiantes de latinoamerica. Talvez algunas start-ups 
 
 - Explorar nuevas oportunidade de financiamiento
 
+# Sostenibilidad 
+
 **CHARLA BUSQUEDA DE FINANCIAMIENTO POST PROYECTO**
 
 - Trabajos y commitment de todos, debe ser constante con cada socio.
 - Tres opciones que se estàn considerando :
--   **1.** Fernando Quevedo : existen programas para apoyar redes en el ictp, es un financiamiento anual renovable- no es un funding como el de erasmus, pero daria ciertas posibilidades de movilidad para estudiantes
+
+**1.** Fernando Quevedo : existen programas para apoyar redes en el ictp, es un financiamiento anual renovable- no es un funding como el de erasmus, pero daria ciertas posibilidades de movilidad para estudiantes
 -   Carlos Sandoval : fondos de movilidad con la red de fisicos de Colombia.
--   **2.** con el BID : contacto con el departamento de innovacion, se ha discutido para ver las posibilidades de aplicar a nuevas oportunidades de financiamiento. Presentacion de LACONGA y LASF4RI - ultima reunion
+
+**2.** con el BID : contacto con el departamento de innovacion, se ha discutido para ver las posibilidades de aplicar a nuevas oportunidades de financiamiento. Presentacion de LACONGA y LASF4RI - ultima reunion
 -   Empezar a afinar - crear o proponer algo que encaje con lo que tenemos. Trabajo en conjunto con LASF4RI. Durante la creacion de la propuesta habrà ayuda. Es importante
 que se empiece a discutir con las autoridades, mucho mejor si tenemos el apoyo de las agencias de financiacion nacionales (Universidades e instituciones gubernamentales) - BID financia paises no instituciones.
 -   Estan abiertos a discusion si existen dificultades a acceder al proceso.
--   **3.** Horizonte europa - va a correr su version con erasmus+ . Funding basado en lo que ya se ha hecho.Proponer una extension al proyecto o proponer un upgrade del proyecto inicial. Cuales son los parametros? 
+
+**3.** Horizonte europa - va a correr su version con erasmus+ . Funding basado en lo que ya se ha hecho.Proponer una extension al proyecto o proponer un upgrade del proyecto inicial. Cuales son los parametros? 
 -   Un eventual upgrade no puede ser presentar lo mismo.
 
+
+# Segunda cohorte
 
 **LACONGA 2022 - cursos**
 
@@ -106,7 +120,7 @@ que se empiece a discutir con las autoridades, mucho mejor si tenemos el apoyo d
 - Evaporacion de estudiantes: evitar
 - Los responsables de cursos deben ejecutar (Teofilo por ejemplo)
 - Sistemas complejos de segundo semestre y mecanica estadistica en semestre dos (David) : Pierre y Ernesto disponibles
-- Coordinacion de la parte de datos: primero fue Arturo y Juan carlos y la parte de José
+- Coordinacion de la parte de datos: primero fue Arturo con Juan carlos y la parte de José
 - Tener al final de año un calendario de actividades y hoja de ruta
 
 **PASANTIAS :**
@@ -121,7 +135,7 @@ que se empiece a discutir con las autoridades, mucho mejor si tenemos el apoyo d
 
 - Experimentos con equipos : Dennis - finales de enero / inicios de febrero los equipos ya deben estar instalados.
 
-**HACKATHON :**
+# HACKATHON :
 
 - Funding con fondos de LACONGA y otros : en primer lugar, hacer la hoja de ruta ( buscar gente que den desafios)
 - Fechas : mediados de abril, pero implicaba iniciar en diciembre. Pero ha sido dificil definir el concepto - 

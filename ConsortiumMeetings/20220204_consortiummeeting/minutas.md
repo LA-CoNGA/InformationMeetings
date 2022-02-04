@@ -7,11 +7,10 @@ Venezuela - inicio de discusiones con empresas de importacion
 **Resumen de cursos :**
 
 - José : evaporacion visible (alrededor de 30 presentes) - dinamica interesante (comparten informacion entre el grupo) - 
-- Dennis : evaporacion igualmente (alrededor de 20)- inscripcion de nombres para las practicas y el numero de interesados aumento - el problema que por cuestiones de tiempo y logistia
-los equipos estuvieron unicamente durante un dia. Jesus va a estar todo el dia en la UIS para que el equipo esté disponible - en UNI y UAN el equipo estarà disponible una parte del dia
-Practicas con la Elvis, y para que la proxima semana se ponga el circuito a disposicion para que puedan conectarse a cualquier hora e inicien practicas.
-- Importante la hoja de horarios de practicas para hacer seguimiento de numero de estudiantes, tiempo acordado a las practicas.
-UAN/ UIS: activo y UNI
+- Dennis : evaporacion igualmente (alrededor de 20 presentes)- inscripcion de nombres para las practicas y el numero de interesados aumento - los equipos estuvieron unicamente accesibles durante un dia por problemas de tiempo y logistica. Jesus està/estarà presente en la UIS para que el equipo esté disponible - en UNI y UAN el equipo estarà disponible una parte del dia.
+Practicas con la Elvis: la proxima semana se pone el circuito a disposicion para que los estudiantes puedan conectarse a cualquier hora e inicien practicas.
+- Importante la hoja de horarios de practicas para hacer seguimiento de numero de estudiantes, tiempo acordado a las practicas etc...
+
 
 
 **Presentacion d elos estudiantes :**

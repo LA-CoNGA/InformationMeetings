@@ -55,6 +55,10 @@ tramites hayan sido gestionados por la empresa.
 - Pierre: Envio de un correo base de comunicacion con los estudiantes
 
 
+# AOB
+
+- Doodle para la organizacion de las clases de la filial de particulas : https://doodle.com/poll/gmu6qqm4gth5cub8?utm_source=poll&utm_medium=link
+
 
 
 

@@ -54,6 +54,7 @@ Inician : Lunes Sergio (DESY) y miércoles Joany*
 
 # Tema de discusión para la próxima reunión: 
 
-- Concepto de Innovacion e investigación dentro del proyecto
+- Concepto de Innovacion e investigación dentro del proyecto : buscar eventos/submissions entorno a esta tematica
+- Contacto con UNESCO/IESALC para obtener informacion sobre el siguiente evento (Mayo 2022): https://en.unesco.org/news/unesco-world-higher-education-conference-2022
 - Empezar un brainstorming para la redaccion de un paper sobre la experiencia del proyecto
 - Pensar en los scope (physics today / educación de la física/ talks)

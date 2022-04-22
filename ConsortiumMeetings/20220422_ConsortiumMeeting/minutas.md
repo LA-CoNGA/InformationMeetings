@@ -90,6 +90,35 @@ profesionalizar la plataforma. Inicialmente se discute un propuesta corta de dos
 
 
 
+Punto sobre el hackathon :
+
+Junio y julio : segundo semestre
+
+Tiene solo contactos de astroparticulas : puede contactar facilmente (Teofilo)
+Parte de sistemas complejos y analisis de datos : crear una reunion para una primera lluvia de ideas ( Ernesto - al frente como persona de contacto)
+Primera idea : contactar a los profesores que hicieron los cursos y en base de eso buscar a los profesores.
+
+JAL : quienes participaron en fisica médica estàn dispuestos a colaborar en el segundo semestre. El seria el contacto para coordinar el curso (confirmado)
+
+Analisis de datos : colega de analisis de datos que Luis puede ayudar
+
+Utilizar carta de invitacion / contacto a enviar a los docentes : modelo de base (retomar modelo de Harold y Reina)
+
+
+AOB :
+
+JAL : herramienta para publicar y compartir los proyectos de ciencia ciudadana.  Jupyter book - https://jupyterbook.org/intro.html
+
+Plantilla que pemitirà trabajar con notebooks y facilita el tipo de trabajo que quiere con ciencia ciudadana
+Se escribe en markdown.
+JAL : herramientas parecidas a lo que estamos usando en laconga (a mitad de camino del mit lab y jupyter) -
+Proxima semana : tener un book en el jupyter book con las propuestas de proyectos y un contenido basico para verlo el proximo viernes - separar un slot proximo.
+
+
+
+
+
+
 
 
 

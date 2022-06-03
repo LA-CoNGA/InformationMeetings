@@ -2,7 +2,10 @@ Minutas de la reunión
 
 Presentes : Alex, Cristian, Dennis, Ernesto, José Antonio, José, Luis, Pierre, Teófilo
 
-- Pasantías : recorrimos el fichero, discutimos varias situaciones individuales, sobre todo UIS, UCV, USB, UNMSM.  
+- Pasantías : 
+    - recorrimos el fichero, discutimos varias situaciones individuales, sobre todo UIS, UCV, USB, UNMSM. 
+    - por favor actualizar las infos aquí: https://docs.google.com/spreadsheets/d/1nW2J1vQvFZG0Znw_z6TYkWzWjKta5TGeIHBjgHZEZGE
+    - ¡es urgente decidir qué estuiante hace qué pasantía!
 
 - Segundo semestre : 
     - Situación globalmente bien definida en los cursos de advanced CS, astro-cosmo y física médica, con algunos puntos/cambios aún por resolver, pero las personas responsables están en eso. 

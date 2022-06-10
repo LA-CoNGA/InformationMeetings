@@ -34,9 +34,11 @@
 
 **Evento de HIGGS**
 
+https://docs.google.com/presentation/d/1Dgkds41T0YruNbYGjHgDOn8Aro2IdNtcSPv1D9ZGrnc/
+
 - Cambio de fecha al 15/07
-- Nuevos participantes : Fernando Quevedo? Edgar Carrera?
-- Otras ideas ? Periodismo cientifico ? - Alejandra Castro (fisica / divulgacion)
+- Nuevos participantes : Fernando Quevedo? 
+- Otras ideas ? Periodismo cientifico ? - Alexandra de Castro (fisica / divulgacion)
 
 **SILAFAE**
 

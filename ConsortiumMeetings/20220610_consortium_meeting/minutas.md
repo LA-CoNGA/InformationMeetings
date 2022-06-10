@@ -37,7 +37,7 @@
 https://docs.google.com/presentation/d/1Dgkds41T0YruNbYGjHgDOn8Aro2IdNtcSPv1D9ZGrnc/
 
 - Cambio de fecha al 15/07
-- Nuevos participantes : Fernando Quevedo? 
+- Sugerencias de participantes : Fernando Quevedo, Yeinzon Rodríguez, Héctor Rago, Solmar Varela
 - Otras ideas ? Periodismo cientifico ? - Alexandra de Castro (fisica / divulgacion)
 
 **SILAFAE**

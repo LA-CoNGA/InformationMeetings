@@ -4,9 +4,9 @@
 OJO : notas todavia pendientes. Los estudiantes estàn ya empezando a solicitar los certificados.
 Tomar en cuenta para la proxima cohorte : explicar e indicar como se evaluarà a los estudiantes - peso de las notas para evitar espera.
 
-
 En paralelo : status de estaciones EVA - no todas estàn operativas (UNMSM/UCV).
 
+*Presentacion de Alexander en archivo adjunto*
 
 # Reporte intermedio pasantias
 

@@ -1,5 +1,5 @@
 
-https://docs.google.com/presentation/d/197tB8-M1sRdmLdlhZXQzO30lI5vB2pteReby_q4ueG4/edit
+
 
 # Agenda NS 2022
 
@@ -36,6 +36,8 @@ Pasajes aéreos : envio por mail (Andrea)
 
 
 # Auditoria :
+
+slides: https://docs.google.com/presentation/d/197tB8-M1sRdmLdlhZXQzO30lI5vB2pteReby_q4ueG4/edit
 
 -Justificativos 
 

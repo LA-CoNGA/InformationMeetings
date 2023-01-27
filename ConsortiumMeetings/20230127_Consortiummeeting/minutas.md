@@ -22,7 +22,7 @@ de los estudiantes y poder orientarlos.
 
 Se seleccionaron a 22 personas para el primer grupo de presentacion el dia lunes. Se creo una carpeta en drive donde incluir las presentaciones (pedir el enlace a Alex)
 
-Enlace a mattermost con los tutoriales : Alex envia el enlace
+Enlace a mattermost con los tutoriales : https://drive.google.com/drive/folders/1MDhlJG9xDvhLDPKgsslnACp_WQ8bWE4z
 
 # Laboratorios Remotos (Christian)
 

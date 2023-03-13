@@ -12,19 +12,17 @@ Conclusion instrumentacion :  pocos estudiantes al 100%
 
 Qué ha cambiado con relacion a las cohortes pasadas?  
 
-José Antonio comparte este documento para el arqueo de caja de estudiantes activos en instrumentación
+José Antonio comparte este documento mostrando estudiantes activos en instrumentación
 https://docs.google.com/spreadsheets/d/1ihtzG2s9OHmQSEmFIz1_9mhef_Ym6S_lpB2hdKpK3qg/edit?usp=sharing
-
-Cruzar informacion con todo los docentes en instrumentacion.
 
 
 Feedback tutoria de Gabriela : Estudiantes de Yachay - horarios de trabajo/ maestria muy complicados. Solicitan nueva adaptacion de horarios y/o nueva dinamica de curso.
 Problemas de comunicacion con contactos institucionales.
 
 Feedback Julio : Estudiantes de Yachay con carga de clases/ trabajo importante. Los laboratorios estàn instalados y
-seguirian con la parte experimental todavia hace falta desarrollar, se espera que para el segundo semestre de Yachay ya los laboratorios estén totalmente operativos.
+seguirian con la parte experimental. Se espera que para el segundo semestre de Yachay ya los laboratorios estén totalmente operativos y puedan ser usando conforme al calendario de la maestria de YT.
 
-Discusion importante : como atender y adaptarse a un seguimiento y actividades asincronas, mientras mantenemos un nucleo de actividades sincronas.
+Discusion importante : como atender y adaptarse a un seguimiento y actividades asincronas, mientras mantenemos un nucleo de actividades sincronas?
 
 Primeras soluciones: que vean las clases de manera remota y que realicen las practicas los fines de semana.
 Como coordinacion se puede enviar una comunicacion a estos estudiantes para que sepan a qué atenerse...

@@ -51,5 +51,6 @@ Datos : quedan dos semanas para entrega de tareas
 # AOB
 
 - Encuestra demografica/género : https://docs.google.com/forms/d/1AqBhFZqJ5nVuVESVLmr9ZrYKqbfurOO-Pe39lboHoFg/viewform?edit_requested=true
+- Feedback cohorte 2022 : https://docs.google.com/presentation/d/1jw0-reQEXlmt8kue7kaY0nVKXLHO3rWCCQ0RX85n78A/edit#slide=id.g2167a9513cd_0_10
 
 

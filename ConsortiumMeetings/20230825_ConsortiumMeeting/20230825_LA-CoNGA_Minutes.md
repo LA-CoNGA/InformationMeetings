@@ -65,3 +65,6 @@
     * Otras ideas:
         * Retormar convenios interinstitucionales.
         * Maestría internacional.
+
+## Hora de culminación
+ ~15:30 UTC

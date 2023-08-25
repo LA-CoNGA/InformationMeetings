@@ -17,7 +17,7 @@
 * El Hackathon es del 20 al 22 de octubre.
 * Ha comenzado el llamado a retos. Difundir en sus redes de contactos. Apuntar a la gente en instituciones candidatas a proponer retos. El llamado a retos termina el 2023-09-22
 * El 2023-09-01 comienza la inscripción de partiipantes. Dura todo el mes de septiembre. Está contemplado tener ayudas para los participantes: conexión a red y cuidado de familia.
-    * Invitar a los posibles participantes a revisar la web para tener la información
+    * Invitar a los posibles participantes a revisar la web para tener la información: [https://laconga.redclara.net/hackathon/](https://laconga.redclara.net/hackathon/)
 * Los pasantes están comprometidos con la actividad del Hackathon.
 ### Estatus logística de pasantías
 | Nombre | Apellido | Estatus de avance asuntos administrativos y de pasantía |
